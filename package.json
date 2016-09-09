@@ -1,0 +1,15 @@
+{
+  "name": "xdc-autoprefixer",
+  "version": "0.1.0",
+  "description": "A xdc plugin.",
+  "keywords": [
+    "xdc"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^6.0.0"
+  }
+}
